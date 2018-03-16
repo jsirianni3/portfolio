@@ -1,0 +1,261 @@
+[Mon Dec 18 22:24:10.684057 2017] [autoindex:error] [pid 2260] [client 104.158.12.3:60949] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 18 22:24:47.712500 2017] [autoindex:error] [pid 2264] [client 35.196.69.119:31526] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 18 22:29:42.594043 2017] [autoindex:error] [pid 2265] [client 104.158.12.3:61169] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 18 22:44:19.328386 2017] [autoindex:error] [pid 2262] [client 104.158.12.3:61518] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 18 22:46:42.216626 2017] [autoindex:error] [pid 2264] [client 54.154.77.190:49846] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 18 23:29:41.763309 2017] [autoindex:error] [pid 2264] [client 38.130.184.69:39035] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 18 23:32:25.887398 2017] [autoindex:error] [pid 2265] [client 38.130.176.47:39426] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:30:24.112037 2017] [autoindex:error] [pid 2263] [client 204.187.14.73:50644] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:30:45.798232 2017] [autoindex:error] [pid 2288] [client 204.187.14.71:50966] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:31:16.736770 2017] [autoindex:error] [pid 2265] [client 209.171.88.102:3904] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:35:31.243372 2017] [autoindex:error] [pid 2263] [client 72.10.193.107:50560] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:35:31.250128 2017] [autoindex:error] [pid 2260] [client 72.10.193.107:50562] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:35:31.290378 2017] [autoindex:error] [pid 2263] [client 72.10.193.107:50568] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:35:31.305001 2017] [autoindex:error] [pid 2265] [client 72.10.193.107:50570] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:36:40.309156 2017] [autoindex:error] [pid 2264] [client 104.158.12.3:62664] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:36:52.877167 2017] [autoindex:error] [pid 2265] [client 72.10.193.107:50586] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:36:52.917344 2017] [autoindex:error] [pid 2288] [client 72.10.193.107:50590] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:36:52.990528 2017] [autoindex:error] [pid 2410] [client 72.10.193.107:50594] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:36:53.031036 2017] [autoindex:error] [pid 2264] [client 72.10.193.107:50598] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:39:50.630658 2017] [autoindex:error] [pid 2288] [client 104.158.12.3:62752] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:39:58.977251 2017] [autoindex:error] [pid 2265] [client 72.10.193.107:50988] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:39:58.977267 2017] [autoindex:error] [pid 2410] [client 72.10.193.107:50989] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:39:59.803150 2017] [autoindex:error] [pid 2263] [client 72.10.193.107:50994] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:39:59.803150 2017] [autoindex:error] [pid 2264] [client 72.10.193.107:50992] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:41:02.957063 2017] [autoindex:error] [pid 2288] [client 104.158.12.3:62781] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:41:31.652090 2017] [autoindex:error] [pid 2434] [client 104.158.12.3:62783] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 00:41:40.652916 2017] [autoindex:error] [pid 2439] [client 72.10.193.107:51086] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:40.653916 2017] [autoindex:error] [pid 2436] [client 72.10.193.107:51084] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:40.692680 2017] [autoindex:error] [pid 2434] [client 72.10.193.107:51092] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:40.693396 2017] [autoindex:error] [pid 2439] [client 72.10.193.107:51093] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:42.277961 2017] [autoindex:error] [pid 2434] [client 72.10.193.107:51102] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:42.278159 2017] [autoindex:error] [pid 2438] [client 72.10.193.107:51100] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:42.316995 2017] [autoindex:error] [pid 2436] [client 72.10.193.107:51108] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:42.317009 2017] [autoindex:error] [pid 2434] [client 72.10.193.107:51110] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:43.235497 2017] [autoindex:error] [pid 2439] [client 72.10.193.107:51116] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:43.248257 2017] [autoindex:error] [pid 2436] [client 72.10.193.107:51118] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:43.273875 2017] [autoindex:error] [pid 2439] [client 72.10.193.107:51122] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:43.287218 2017] [autoindex:error] [pid 2438] [client 72.10.193.107:51126] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:44.366331 2017] [autoindex:error] [pid 2434] [client 72.10.193.107:51130] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:44.403476 2017] [autoindex:error] [pid 2438] [client 72.10.193.107:51136] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:44.532256 2017] [autoindex:error] [pid 2436] [client 72.10.193.107:51138] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:41:44.570601 2017] [autoindex:error] [pid 2439] [client 72.10.193.107:51142] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive, referer: http://joshuasirianni.com/
+[Tue Dec 19 00:43:55.399308 2017] [ssl:warn] [pid 2485] AH01909: RSA certificate configured for www.joshuasirianni.com:443 does NOT include an ID which matches the server name
+[Tue Dec 19 00:43:55.422152 2017] [ssl:warn] [pid 2485] AH01909: RSA certificate configured for www.joshuasirianni.com:443 does NOT include an ID which matches the server name
+[Tue Dec 19 00:46:14.573519 2017] [ssl:warn] [pid 2509] AH01909: RSA certificate configured for www.joshuasirianni.com:443 does NOT include an ID which matches the server name
+[Tue Dec 19 00:46:14.598770 2017] [ssl:warn] [pid 2509] AH01909: RSA certificate configured for www.joshuasirianni.com:443 does NOT include an ID which matches the server name
+[Tue Dec 19 00:52:10.307085 2017] [ssl:warn] [pid 2543] AH01909: RSA certificate configured for www.joshuasirianni.com:443 does NOT include an ID which matches the server name
+[Tue Dec 19 00:52:10.332431 2017] [ssl:warn] [pid 2543] AH01909: RSA certificate configured for www.joshuasirianni.com:443 does NOT include an ID which matches the server name
+[Tue Dec 19 01:00:48.667241 2017] [autoindex:error] [pid 2545] [client 209.58.131.213:44070] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Dec 19 11:12:53.266473 2017] [autoindex:error] [pid 3155] [client 104.158.12.3:49463] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Dec 22 02:27:58.678826 2017] [ssl:error] [pid 3218] [client 207.46.13.76:1530] AH02261: Re-negotiation handshake failed
+[Mon Dec 25 15:08:16.505124 2017] [ssl:error] [pid 8634] [client 137.226.113.28:47592] AH02261: Re-negotiation handshake failed
+[Mon Dec 25 15:08:16.505227 2017] [ssl:error] [pid 8634] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Tue Dec 26 22:05:59.566439 2017] [cgi:error] [pid 8634] [client 155.94.146.2:44897] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Jan 01 18:04:24.800430 2018] [ssl:error] [pid 16744] [client 137.226.113.28:56396] AH02261: Re-negotiation handshake failed
+[Mon Jan 01 18:04:24.800526 2018] [ssl:error] [pid 16744] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Tue Jan 02 07:44:23.413808 2018] [ssl:error] [pid 16744] [client 64.246.165.200:64397] AH02225: Re-negotiation request failed, referer: http://whois.domaintools.com/joshuasirianni.com
+[Tue Jan 02 07:44:23.413873 2018] [ssl:error] [pid 16744] SSL Library Error: error:14080152:SSL routines:ssl3_accept:unsafe legacy renegotiation disabled
+[Thu Jan 04 03:38:17.900772 2018] [ssl:error] [pid 16744] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Jan 04 03:38:18.036169 2018] [ssl:error] [pid 16692] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Jan 04 03:38:18.202093 2018] [ssl:error] [pid 16965] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Jan 04 03:38:18.347491 2018] [ssl:error] [pid 19252] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Jan 04 03:38:18.477098 2018] [ssl:error] [pid 16966] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Jan 04 03:38:18.579613 2018] [ssl:error] [pid 16744] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Jan 04 03:38:18.683600 2018] [ssl:error] [pid 16692] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Jan 04 03:38:18.828732 2018] [ssl:error] [pid 16965] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Tue Jan 09 03:56:49.039606 2018] [ssl:error] [pid 1000] [client 137.226.113.26:60186] AH02261: Re-negotiation handshake failed
+[Tue Jan 09 03:56:49.039923 2018] [ssl:error] [pid 1000] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Wed Jan 10 15:50:51.624887 2018] [cgi:error] [pid 999] [client 203.24.188.242:41584] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Jan 13 13:52:48.470724 2018] [ssl:error] [pid 954] [client 207.46.13.200:3771] AH02261: Re-negotiation handshake failed
+[Mon Jan 15 22:52:32.951833 2018] [ssl:error] [pid 19607] [client 137.226.113.27:36588] AH02261: Re-negotiation handshake failed
+[Mon Jan 15 22:52:32.952125 2018] [ssl:error] [pid 19607] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Wed Jan 17 03:22:24.982212 2018] [cgi:error] [pid 23821] [client 145.249.106.108:41285] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Jan 17 17:33:49.098580 2018] [cgi:error] [pid 23821] [client 96.91.204.122:50413] script not found or unable to stat: /var/www/cgi-bin/test-cgi
+[Mon Jan 22 04:22:43.034251 2018] [ssl:error] [pid 20499] [client 137.226.113.26:34034] AH02261: Re-negotiation handshake failed
+[Mon Jan 22 04:22:43.035089 2018] [ssl:error] [pid 20499] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Wed Jan 24 12:39:02.883592 2018] [ssl:error] [pid 21213] [client 216.145.14.142:21336] AH02225: Re-negotiation request failed, referer: http://whois.domaintools.com/joshuasirianni.com
+[Wed Jan 24 12:39:02.883666 2018] [ssl:error] [pid 21213] SSL Library Error: error:14080152:SSL routines:ssl3_accept:unsafe legacy renegotiation disabled
+[Mon Jan 29 02:57:03.710653 2018] [ssl:error] [pid 27750] [client 137.226.113.26:44268] AH02261: Re-negotiation handshake failed
+[Mon Jan 29 02:57:03.710797 2018] [ssl:error] [pid 27750] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Tue Jan 30 10:07:32.210687 2018] [cgi:error] [pid 27750] [client 173.212.237.220:39952] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Jan 30 12:06:59.968944 2018] [cgi:error] [pid 27750] [client 173.212.237.220:47878] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Jan 31 01:47:11.215370 2018] [cgi:error] [pid 27770] [client 84.244.180.7:53624] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Jan 31 01:47:11.293614 2018] [cgi:error] [pid 27770] [client 84.244.180.7:53624] script not found or unable to stat: /var/www/cgi-bin/php5
+[Wed Jan 31 01:47:11.371997 2018] [cgi:error] [pid 27770] [client 84.244.180.7:53624] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Wed Jan 31 01:47:11.450832 2018] [cgi:error] [pid 27770] [client 84.244.180.7:53624] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Wed Jan 31 01:47:11.528872 2018] [cgi:error] [pid 27770] [client 84.244.180.7:53624] script not found or unable to stat: /var/www/cgi-bin/php4
+[Wed Jan 31 01:47:11.606984 2018] [cgi:error] [pid 27770] [client 84.244.180.7:53624] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Wed Jan 31 01:47:11.685067 2018] [cgi:error] [pid 27770] [client 84.244.180.7:53624] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Thu Feb 01 21:16:54.334849 2018] [cgi:error] [pid 27770] [client 79.143.188.130:38766] script not found or unable to stat: /var/www/cgi-bin/php
+[Thu Feb 01 21:16:54.431653 2018] [cgi:error] [pid 27770] [client 79.143.188.130:38766] script not found or unable to stat: /var/www/cgi-bin/php5
+[Thu Feb 01 21:16:54.528371 2018] [cgi:error] [pid 27770] [client 79.143.188.130:38766] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Thu Feb 01 21:16:54.625336 2018] [cgi:error] [pid 27770] [client 79.143.188.130:38766] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Thu Feb 01 21:16:54.724866 2018] [cgi:error] [pid 27770] [client 79.143.188.130:38766] script not found or unable to stat: /var/www/cgi-bin/php4
+[Thu Feb 01 21:16:54.823512 2018] [cgi:error] [pid 27770] [client 79.143.188.130:38766] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Thu Feb 01 21:16:55.010301 2018] [cgi:error] [pid 27770] [client 79.143.188.130:38766] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Fri Feb 02 15:29:14.406147 2018] [cgi:error] [pid 28143] [client 183.203.31.98:23589] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Feb 03 03:08:06.790820 2018] [cgi:error] [pid 27750] [client 183.203.31.98:26408] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Feb 05 16:16:34.535422 2018] [ssl:error] [pid 4683] [client 137.226.113.27:49926] AH02261: Re-negotiation handshake failed
+[Mon Feb 05 16:16:34.535508 2018] [ssl:error] [pid 4683] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Tue Feb 06 16:50:45.233209 2018] [ssl:error] [pid 5770] [client 157.55.39.0:30129] AH02261: Re-negotiation handshake failed
+[Tue Feb 06 16:53:03.920301 2018] [ssl:error] [pid 5423] [client 157.55.39.0:43131] AH02261: Re-negotiation handshake failed
+[Wed Feb 07 04:47:28.968985 2018] [cgi:error] [pid 4683] [client 183.203.31.98:27123] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Feb 11 11:23:23.595288 2018] [ssl:error] [pid 10261] [client 64.246.187.42:38664] AH02225: Re-negotiation request failed, referer: http://whois.domaintools.com/joshuasirianni.com
+[Sun Feb 11 11:23:23.595354 2018] [ssl:error] [pid 10261] SSL Library Error: error:14080152:SSL routines:ssl3_accept:unsafe legacy renegotiation disabled
+[Wed Feb 14 05:42:58.453407 2018] [cgi:error] [pid 10261] [client 31.47.252.50:36644] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Feb 14 05:42:58.547763 2018] [cgi:error] [pid 10261] [client 31.47.252.50:36644] script not found or unable to stat: /var/www/cgi-bin/php5
+[Wed Feb 14 05:42:58.642215 2018] [cgi:error] [pid 10261] [client 31.47.252.50:36644] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Wed Feb 14 05:42:58.736496 2018] [cgi:error] [pid 10261] [client 31.47.252.50:36644] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Wed Feb 14 05:42:58.830798 2018] [cgi:error] [pid 10261] [client 31.47.252.50:36644] script not found or unable to stat: /var/www/cgi-bin/php4
+[Wed Feb 14 05:42:58.925116 2018] [cgi:error] [pid 10261] [client 31.47.252.50:36644] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Wed Feb 14 05:42:59.019454 2018] [cgi:error] [pid 10261] [client 31.47.252.50:36644] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Fri Feb 16 19:55:19.770344 2018] [cgi:error] [pid 13737] [client 213.239.199.150:36527] attempt to invoke directory as script: /var/www/cgi-bin/
+[Fri Feb 16 19:55:20.071494 2018] [cgi:error] [pid 13740] [client 213.239.199.150:37205] script not found or unable to stat: /var/www/cgi-bin/hi
+[Sat Feb 17 01:36:47.058809 2018] [cgi:error] [pid 10261] [client 89.40.218.2:60126] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Feb 17 01:36:47.244382 2018] [cgi:error] [pid 10261] [client 89.40.218.2:60126] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Feb 17 01:36:47.410096 2018] [cgi:error] [pid 10261] [client 89.40.218.2:60126] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sat Feb 17 01:36:47.534158 2018] [cgi:error] [pid 10261] [client 89.40.218.2:60126] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sat Feb 17 01:36:47.704715 2018] [cgi:error] [pid 10261] [client 89.40.218.2:60126] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Feb 17 01:36:47.843191 2018] [cgi:error] [pid 10261] [client 89.40.218.2:60126] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Feb 17 01:36:47.967266 2018] [cgi:error] [pid 10261] [client 89.40.218.2:60126] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Feb 17 02:36:47.888917 2018] [cgi:error] [pid 13740] [client 31.47.252.50:57767] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Feb 17 02:36:47.973745 2018] [cgi:error] [pid 13740] [client 31.47.252.50:57767] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Feb 17 02:36:48.058594 2018] [cgi:error] [pid 13740] [client 31.47.252.50:57767] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sat Feb 17 02:36:48.143398 2018] [cgi:error] [pid 13740] [client 31.47.252.50:57767] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sat Feb 17 02:36:48.228209 2018] [cgi:error] [pid 13740] [client 31.47.252.50:57767] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Feb 17 02:36:48.315275 2018] [cgi:error] [pid 13740] [client 31.47.252.50:57767] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Feb 17 02:36:48.400135 2018] [cgi:error] [pid 13740] [client 31.47.252.50:57767] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Feb 17 04:07:01.368652 2018] [cgi:error] [pid 13737] [client 213.239.199.150:52953] script not found or unable to stat: /var/www/cgi-bin/php
+[Sat Feb 17 04:07:01.463648 2018] [cgi:error] [pid 13737] [client 213.239.199.150:52953] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sat Feb 17 04:07:01.558585 2018] [cgi:error] [pid 13737] [client 213.239.199.150:52953] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sat Feb 17 04:07:01.653549 2018] [cgi:error] [pid 13737] [client 213.239.199.150:52953] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sat Feb 17 04:07:01.748498 2018] [cgi:error] [pid 13737] [client 213.239.199.150:52953] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sat Feb 17 04:07:01.843515 2018] [cgi:error] [pid 13737] [client 213.239.199.150:52953] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sat Feb 17 04:07:01.938551 2018] [cgi:error] [pid 13737] [client 213.239.199.150:52953] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sat Feb 17 19:05:26.759125 2018] [ssl:error] [pid 13740] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sat Feb 17 19:05:27.841056 2018] [ssl:error] [pid 17472] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sat Feb 17 19:05:28.919762 2018] [ssl:error] [pid 13737] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sat Feb 17 19:05:29.955849 2018] [ssl:error] [pid 10359] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sat Feb 17 19:05:31.821454 2018] [ssl:error] [pid 17473] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sat Feb 17 19:05:32.820547 2018] [ssl:error] [pid 13740] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sat Feb 17 19:05:38.057637 2018] [ssl:error] [pid 17472] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sat Feb 17 19:05:39.190612 2018] [ssl:error] [pid 13737] AH02032: Hostname j provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Sun Feb 18 14:30:46.575798 2018] [cgi:error] [pid 17473] [client 31.47.252.50:33817] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Feb 18 14:30:46.670326 2018] [cgi:error] [pid 17473] [client 31.47.252.50:33817] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Feb 18 14:30:46.765038 2018] [cgi:error] [pid 17473] [client 31.47.252.50:33817] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sun Feb 18 14:30:46.860136 2018] [cgi:error] [pid 17473] [client 31.47.252.50:33817] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sun Feb 18 14:30:46.955170 2018] [cgi:error] [pid 17473] [client 31.47.252.50:33817] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Feb 18 14:30:47.049810 2018] [cgi:error] [pid 17473] [client 31.47.252.50:33817] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Feb 18 14:30:47.145198 2018] [cgi:error] [pid 17473] [client 31.47.252.50:33817] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Sun Feb 18 20:32:00.738039 2018] [cgi:error] [pid 10359] [client 31.47.252.50:49053] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Feb 18 20:32:00.832939 2018] [cgi:error] [pid 10359] [client 31.47.252.50:49053] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Feb 18 20:32:00.928695 2018] [cgi:error] [pid 10359] [client 31.47.252.50:49053] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sun Feb 18 20:32:01.023865 2018] [cgi:error] [pid 10359] [client 31.47.252.50:49053] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sun Feb 18 20:32:01.120514 2018] [cgi:error] [pid 10359] [client 31.47.252.50:49053] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Feb 18 20:32:01.216296 2018] [cgi:error] [pid 10359] [client 31.47.252.50:49053] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Feb 18 20:32:01.311619 2018] [cgi:error] [pid 10359] [client 31.47.252.50:49053] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Mon Feb 19 05:30:05.595909 2018] [cgi:error] [pid 18849] [client 174.143.208.137:34107] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Feb 19 05:30:05.639972 2018] [cgi:error] [pid 18849] [client 174.143.208.137:34107] script not found or unable to stat: /var/www/cgi-bin/php5
+[Mon Feb 19 05:30:05.684319 2018] [cgi:error] [pid 18849] [client 174.143.208.137:34107] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Mon Feb 19 05:30:05.728159 2018] [cgi:error] [pid 18849] [client 174.143.208.137:34107] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Mon Feb 19 05:30:05.772095 2018] [cgi:error] [pid 18849] [client 174.143.208.137:34107] script not found or unable to stat: /var/www/cgi-bin/php4
+[Mon Feb 19 05:30:05.815809 2018] [cgi:error] [pid 18849] [client 174.143.208.137:34107] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Mon Feb 19 05:30:05.863151 2018] [cgi:error] [pid 18849] [client 174.143.208.137:34107] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Tue Feb 20 20:56:24.598537 2018] [cgi:error] [pid 21770] [client 212.34.138.31:52683] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Feb 20 20:56:24.712250 2018] [cgi:error] [pid 21770] [client 212.34.138.31:52683] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Feb 20 20:56:24.825862 2018] [cgi:error] [pid 21770] [client 212.34.138.31:52683] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Feb 20 20:56:24.940855 2018] [cgi:error] [pid 21770] [client 212.34.138.31:52683] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Feb 20 20:56:25.054495 2018] [cgi:error] [pid 21770] [client 212.34.138.31:52683] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Feb 20 20:56:25.168738 2018] [cgi:error] [pid 21770] [client 212.34.138.31:52683] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Tue Feb 20 20:56:25.282788 2018] [cgi:error] [pid 21770] [client 212.34.138.31:52683] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Fri Feb 23 03:46:37.941859 2018] [cgi:error] [pid 21823] [client 84.244.180.102:57620] script not found or unable to stat: /var/www/cgi-bin/php
+[Fri Feb 23 03:46:38.019799 2018] [cgi:error] [pid 21823] [client 84.244.180.102:57620] script not found or unable to stat: /var/www/cgi-bin/php5
+[Fri Feb 23 03:46:38.098355 2018] [cgi:error] [pid 21823] [client 84.244.180.102:57620] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Fri Feb 23 03:46:38.176105 2018] [cgi:error] [pid 21823] [client 84.244.180.102:57620] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Fri Feb 23 03:46:38.253927 2018] [cgi:error] [pid 21823] [client 84.244.180.102:57620] script not found or unable to stat: /var/www/cgi-bin/php4
+[Fri Feb 23 03:46:38.331762 2018] [cgi:error] [pid 21823] [client 84.244.180.102:57620] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Fri Feb 23 03:46:38.410360 2018] [cgi:error] [pid 21823] [client 84.244.180.102:57620] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Fri Feb 23 22:51:01.890492 2018] [core:alert] [pid 24906] [client 104.158.12.3:64788] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:51:38.702650 2018] [core:alert] [pid 24905] [client 104.158.12.3:64827] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:51:47.866706 2018] [core:alert] [pid 24926] [client 104.158.12.3:64848] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:53:26.697487 2018] [core:alert] [pid 24968] [client 104.158.12.3:65016] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:54:34.526187 2018] [core:alert] [pid 24969] [client 104.158.12.3:65093] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:54:35.535985 2018] [core:alert] [pid 24968] [client 104.158.12.3:65094] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:54:43.377786 2018] [core:alert] [pid 24989] [client 104.158.12.3:65107] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:54:44.289782 2018] [core:alert] [pid 24990] [client 104.158.12.3:65112] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:55:49.029059 2018] [core:alert] [pid 25012] [client 104.158.12.3:65181] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 22:56:08.052794 2018] [core:alert] [pid 25033] [client 104.158.12.3:65210] /var/www/html/.htaccess: AuthUserFile takes one argument, text file containing user IDs and passwords
+[Fri Feb 23 23:08:11.903090 2018] [auth_basic:error] [pid 25089] [client 104.158.12.3:50131] AH01618: user poo not found: /
+[Sat Feb 24 23:30:21.473936 2018] [auth_basic:error] [pid 26211] [client 104.158.12.3:55871] AH01618: user jsirianni3 not found: /
+[Sat Feb 24 23:30:21.556484 2018] [auth_basic:error] [pid 25089] [client 104.158.12.3:55872] AH01618: user jsirianni3 not found: /js/portfolio.js, referer: https://joshuasirianni.com/
+[Sat Feb 24 23:30:21.556502 2018] [auth_basic:error] [pid 25092] [client 104.158.12.3:55873] AH01618: user jsirianni3 not found: /css/style.css, referer: https://joshuasirianni.com/
+[Sat Feb 24 23:30:21.596048 2018] [auth_basic:error] [pid 26211] [client 104.158.12.3:55871] AH01618: user jsirianni3 not found: /js/portfolio.js, referer: https://joshuasirianni.com/
+[Sat Feb 24 23:30:21.600048 2018] [auth_basic:error] [pid 25092] [client 104.158.12.3:55873] AH01618: user jsirianni3 not found: /css/style.css, referer: https://joshuasirianni.com/
+[Sat Feb 24 23:30:42.806143 2018] [auth_basic:error] [pid 26212] [client 104.158.12.3:55875] AH01618: user jsirianni3 not found: /
+[Sat Feb 24 23:30:56.290602 2018] [auth_basic:error] [pid 26213] [client 104.158.12.3:55876] AH01618: user jsirianni3 not found: /
+[Sat Feb 24 23:36:27.103090 2018] [auth_basic:error] [pid 26213] [client 45.72.234.247:59362] AH01618: user brownie not found: /
+[Sat Feb 24 23:36:36.156312 2018] [auth_basic:error] [pid 26307] [client 45.72.234.247:59369] AH01618: user brownie not found: /
+[Sat Feb 24 23:36:46.745158 2018] [auth_basic:error] [pid 25092] [client 45.72.234.247:59370] AH01618: user brownie not found: /
+[Sat Feb 24 23:37:43.005517 2018] [auth_basic:error] [pid 26211] [client 104.158.12.3:51647] AH01618: user jsirianni3 not found: /
+[Sat Feb 24 23:38:16.093928 2018] [auth_basic:error] [pid 26211] [client 45.72.234.247:59379] AH01618: user brownie not found: /
+[Sat Feb 24 23:38:25.846417 2018] [auth_basic:error] [pid 26307] [client 45.72.234.247:59380] AH01618: user brownie not found: /
+[Sun Feb 25 13:40:54.474729 2018] [cgi:error] [pid 26432] [client 212.34.138.75:44702] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Feb 25 13:40:54.570550 2018] [cgi:error] [pid 26432] [client 212.34.138.75:44702] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Feb 25 13:40:54.666155 2018] [cgi:error] [pid 26432] [client 212.34.138.75:44702] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sun Feb 25 13:40:54.761777 2018] [cgi:error] [pid 26432] [client 212.34.138.75:44702] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sun Feb 25 13:40:54.857443 2018] [cgi:error] [pid 26432] [client 212.34.138.75:44702] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Feb 25 13:40:54.953179 2018] [cgi:error] [pid 26432] [client 212.34.138.75:44702] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Feb 25 13:40:55.049098 2018] [cgi:error] [pid 26432] [client 212.34.138.75:44702] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Tue Feb 27 18:54:40.777304 2018] [cgi:error] [pid 31057] [client 85.118.206.11:45772] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Feb 27 18:54:40.869593 2018] [cgi:error] [pid 31057] [client 85.118.206.11:45772] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Feb 27 18:54:40.964830 2018] [cgi:error] [pid 31057] [client 85.118.206.11:45772] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Feb 27 18:54:41.059588 2018] [cgi:error] [pid 31057] [client 85.118.206.11:45772] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Feb 27 18:54:41.151782 2018] [cgi:error] [pid 31057] [client 85.118.206.11:45772] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Feb 27 18:54:41.245141 2018] [cgi:error] [pid 31057] [client 85.118.206.11:45772] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Tue Feb 27 18:54:41.338579 2018] [cgi:error] [pid 31057] [client 85.118.206.11:45772] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Wed Feb 28 10:55:04.815017 2018] [cgi:error] [pid 30672] [client 85.118.206.11:59719] script not found or unable to stat: /var/www/cgi-bin/php
+[Wed Feb 28 10:55:04.909979 2018] [cgi:error] [pid 30672] [client 85.118.206.11:59719] script not found or unable to stat: /var/www/cgi-bin/php5
+[Wed Feb 28 10:55:05.002811 2018] [cgi:error] [pid 30672] [client 85.118.206.11:59719] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Wed Feb 28 10:55:05.101395 2018] [cgi:error] [pid 30672] [client 85.118.206.11:59719] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Wed Feb 28 10:55:05.200811 2018] [cgi:error] [pid 30672] [client 85.118.206.11:59719] script not found or unable to stat: /var/www/cgi-bin/php4
+[Wed Feb 28 10:55:05.293350 2018] [cgi:error] [pid 30672] [client 85.118.206.11:59719] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Wed Feb 28 10:55:05.387686 2018] [cgi:error] [pid 30672] [client 85.118.206.11:59719] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Thu Mar 01 10:31:26.971220 2018] [ssl:error] [pid 31205] [client 64.246.165.190:21399] AH02225: Re-negotiation request failed, referer: http://whois.domaintools.com/joshuasirianni.com
+[Thu Mar 01 10:31:26.971290 2018] [ssl:error] [pid 31205] SSL Library Error: error:14080152:SSL routines:ssl3_accept:unsafe legacy renegotiation disabled
+[Sun Mar 04 23:02:57.813119 2018] [cgi:error] [pid 6491] [client 89.19.24.154:43208] script not found or unable to stat: /var/www/cgi-bin/php
+[Sun Mar 04 23:02:57.942818 2018] [cgi:error] [pid 6491] [client 89.19.24.154:43208] script not found or unable to stat: /var/www/cgi-bin/php5
+[Sun Mar 04 23:02:58.072463 2018] [cgi:error] [pid 6491] [client 89.19.24.154:43208] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Sun Mar 04 23:02:58.202368 2018] [cgi:error] [pid 6491] [client 89.19.24.154:43208] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Sun Mar 04 23:02:58.333218 2018] [cgi:error] [pid 6491] [client 89.19.24.154:43208] script not found or unable to stat: /var/www/cgi-bin/php4
+[Sun Mar 04 23:02:58.464768 2018] [cgi:error] [pid 6491] [client 89.19.24.154:43208] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Sun Mar 04 23:02:58.594483 2018] [cgi:error] [pid 6491] [client 89.19.24.154:43208] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Mon Mar 12 14:53:20.572636 2018] [cgi:error] [pid 15716] [client 43.240.66.46:34470] script not found or unable to stat: /var/www/cgi-bin/php
+[Mon Mar 12 14:53:20.812954 2018] [cgi:error] [pid 15716] [client 43.240.66.46:34470] script not found or unable to stat: /var/www/cgi-bin/php5
+[Mon Mar 12 14:53:21.052937 2018] [cgi:error] [pid 15716] [client 43.240.66.46:34470] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Mon Mar 12 14:53:21.292842 2018] [cgi:error] [pid 15716] [client 43.240.66.46:34470] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Mon Mar 12 14:53:21.533472 2018] [cgi:error] [pid 15716] [client 43.240.66.46:34470] script not found or unable to stat: /var/www/cgi-bin/php4
+[Mon Mar 12 14:53:21.773759 2018] [cgi:error] [pid 15716] [client 43.240.66.46:34470] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Mon Mar 12 14:53:22.013720 2018] [cgi:error] [pid 15716] [client 43.240.66.46:34470] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Tue Mar 13 02:18:14.054856 2018] [cgi:error] [pid 20225] [client 43.240.66.46:60606] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Mar 13 02:18:14.307336 2018] [cgi:error] [pid 20225] [client 43.240.66.46:60606] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Mar 13 02:18:14.559593 2018] [cgi:error] [pid 20225] [client 43.240.66.46:60606] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Mar 13 02:18:14.811965 2018] [cgi:error] [pid 20225] [client 43.240.66.46:60606] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Mar 13 02:18:15.064274 2018] [cgi:error] [pid 20225] [client 43.240.66.46:60606] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Mar 13 02:18:15.316559 2018] [cgi:error] [pid 20225] [client 43.240.66.46:60606] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Tue Mar 13 02:18:15.568810 2018] [cgi:error] [pid 20225] [client 43.240.66.46:60606] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Tue Mar 13 13:51:27.628623 2018] [cgi:error] [pid 20819] [client 43.240.66.46:41122] script not found or unable to stat: /var/www/cgi-bin/php
+[Tue Mar 13 13:51:27.881038 2018] [cgi:error] [pid 20819] [client 43.240.66.46:41122] script not found or unable to stat: /var/www/cgi-bin/php5
+[Tue Mar 13 13:51:28.132621 2018] [cgi:error] [pid 20819] [client 43.240.66.46:41122] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Tue Mar 13 13:51:28.384630 2018] [cgi:error] [pid 20819] [client 43.240.66.46:41122] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Tue Mar 13 13:51:28.636397 2018] [cgi:error] [pid 20819] [client 43.240.66.46:41122] script not found or unable to stat: /var/www/cgi-bin/php4
+[Tue Mar 13 13:51:28.888392 2018] [cgi:error] [pid 20819] [client 43.240.66.46:41122] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Tue Mar 13 13:51:29.139991 2018] [cgi:error] [pid 20819] [client 43.240.66.46:41122] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Wed Mar 14 18:23:34.190512 2018] [ssl:error] [pid 21919] AH02032: Hostname evermaxgfm.uk provided via SNI and hostname joshuasirianni.com provided via HTTP are different
+[Thu Mar 15 18:19:15.037829 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php
+[Thu Mar 15 18:19:15.284247 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php5
+[Thu Mar 15 18:19:15.529382 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Thu Mar 15 18:19:15.776587 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Thu Mar 15 18:19:16.022546 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php4
+[Thu Mar 15 18:19:16.267709 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Thu Mar 15 18:19:16.515237 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/test.cgi

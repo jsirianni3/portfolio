@@ -1,0 +1,1 @@
+$("#myTabs").bind("show",function(a){paneID=$(a.target).attr("href"),src=$(paneID).attr("data-src"),""==$(paneID+" iframe").attr("src")&&$(paneID+" iframe").attr("src",src)});
