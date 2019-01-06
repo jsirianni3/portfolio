@@ -97,8 +97,6 @@ wordmarkTimeline
   height: '0vh'
 });
 
-
-
 //SMOOTHSCROLL TRANSITION//
 $(function(){
   'use strict';
@@ -136,6 +134,8 @@ $(function(){
 //RELOAD WRAPPER (Any Script inside this function will reload following page transition)//
 (function($) {
   $.fn.onPageLoad = function() {
+
+      $('.materialboxed').materialbox();
 
     //FULLPAGE
 
@@ -200,18 +200,18 @@ var navcubeAboutAnimation = anime({
 	background: '#000'
 });
 
-function enterButton2() {
-  if (navcubeAboutAnimation.reversed) navcubeAboutAnimation.reverse();
-  navcubeAboutAnimation.play();
-}
+  function enterButton2() {
+    if (navcubeAboutAnimation.reversed) navcubeAboutAnimation.reverse();
+    navcubeAboutAnimation.play();
+  }
 
-function leaveButton2() {
-  if (!navcubeAboutAnimation.reversed) navcubeAboutAnimation.reverse();
-  navcubeAboutAnimation.play();
-}
+  function leaveButton2() {
+    if (!navcubeAboutAnimation.reversed) navcubeAboutAnimation.reverse();
+    navcubeAboutAnimation.play();
+  }
 
-navCubeAbout.addEventListener('mouseenter', enterButton2, false);
-navCubeAbout.addEventListener('mouseleave', leaveButton2, false);
+  navCubeAbout.addEventListener('mouseenter', enterButton2, false);
+  navCubeAbout.addEventListener('mouseleave', leaveButton2, false);
 
 
 
@@ -237,6 +237,12 @@ navCubeAbout.addEventListener('mouseleave', leaveButton2, false);
     relativeInput: true
   });
 
+  window.onscroll = function() {
+    $('#element:visible').attr("src", "../img/support3-myr.gif");
+  }
+  window.onscroll = function() {
+    $('#element2:visible').attr("src", "../img/support4-sb.gif");
+  }
 
 };
 }(jQuery));
