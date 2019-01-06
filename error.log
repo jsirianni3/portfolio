@@ -259,3 +259,22 @@
 [Thu Mar 15 18:19:16.022546 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php4
 [Thu Mar 15 18:19:16.267709 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/php5-cli
 [Thu Mar 15 18:19:16.515237 2018] [cgi:error] [pid 22741] [client 43.240.66.46:38056] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Fri Mar 16 17:40:20.973050 2018] [cgi:error] [pid 24161] [client 43.240.66.47:49394] script not found or unable to stat: /var/www/cgi-bin/php
+[Fri Mar 16 17:40:21.225605 2018] [cgi:error] [pid 24161] [client 43.240.66.47:49394] script not found or unable to stat: /var/www/cgi-bin/php5
+[Fri Mar 16 17:40:21.474678 2018] [cgi:error] [pid 24161] [client 43.240.66.47:49394] script not found or unable to stat: /var/www/cgi-bin/php-cgi
+[Fri Mar 16 17:40:21.723538 2018] [cgi:error] [pid 24161] [client 43.240.66.47:49394] script not found or unable to stat: /var/www/cgi-bin/php.cgi
+[Fri Mar 16 17:40:21.972628 2018] [cgi:error] [pid 24161] [client 43.240.66.47:49394] script not found or unable to stat: /var/www/cgi-bin/php4
+[Fri Mar 16 17:40:22.222797 2018] [cgi:error] [pid 24161] [client 43.240.66.47:49394] script not found or unable to stat: /var/www/cgi-bin/php5-cli
+[Fri Mar 16 17:40:22.471685 2018] [cgi:error] [pid 24161] [client 43.240.66.47:49394] script not found or unable to stat: /var/www/cgi-bin/test.cgi
+[Mon Mar 19 12:45:18.858945 2018] [ssl:error] [pid 25485] [client 216.145.14.142:17134] AH02225: Re-negotiation request failed, referer: http://whois.domaintools.com/joshuasirianni.com
+[Mon Mar 19 12:45:18.859009 2018] [ssl:error] [pid 25485] SSL Library Error: error:14080152:SSL routines:ssl3_accept:unsafe legacy renegotiation disabled
+[Mon Mar 19 20:56:49.485404 2018] [ssl:error] [pid 26909] [client 54.81.232.247:33978] AH02261: Re-negotiation handshake failed
+[Mon Mar 19 20:56:49.485502 2018] [ssl:error] [pid 26909] SSL Library Error: error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error (SSL alert number 80)
+[Mon Mar 19 20:57:33.848415 2018] [ssl:error] [pid 26904] [client 54.81.232.247:34462] AH02261: Re-negotiation handshake failed
+[Mon Mar 19 20:57:33.848502 2018] [ssl:error] [pid 26904] SSL Library Error: error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error (SSL alert number 80)
+[Mon Mar 26 17:51:15.229958 2018] [cgi:error] [pid 752] [client 103.231.78.228:36045] script not found or unable to stat: /var/www/cgi-bin/firmware.cgi
+[Mon Mar 26 17:51:19.536546 2018] [cgi:error] [pid 753] [client 162.243.69.215:47268] script not found or unable to stat: /var/www/cgi-bin/firmware.cgi, referer: 168.235.82.117
+[Fri Mar 30 10:05:11.219872 2018] [core:error] [pid 753] [client 136.243.24.136:33274] AH00135: Invalid method in request QUDK / HTTP/1.1
+[Sat Mar 31 05:32:14.781380 2018] [ssl:error] [pid 17072] [client 157.55.39.118:9334] AH02261: Re-negotiation handshake failed
+[Fri Apr 06 08:43:28.869838 2018] [ssl:error] [pid 22481] [client 216.145.17.190:34201] AH02225: Re-negotiation request failed
+[Fri Apr 06 08:43:28.870114 2018] [ssl:error] [pid 22481] SSL Library Error: error:14080152:SSL routines:ssl3_accept:unsafe legacy renegotiation disabled
